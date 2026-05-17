@@ -1,0 +1,7 @@
+- project overview + architecture                                                                                                                                                                    █
+   - frontend/backend stack                                                                                                                                                                             █
+   - env vars for Vercel and Render                                                                                                                                                                     █
+   - local setup instructions                                                                                                                                                                           █
+   - deployment steps                                                                                                                                                                                   █
+   - API contract example                                                                                                                                                                               █
+   - security notes and demo access details   
